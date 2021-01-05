@@ -1,0 +1,15 @@
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\bin\Debug\Database.mdf
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\bin\Debug\Database_log.ldf
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\bin\Debug\AvtoManagementDB.exe.config
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\bin\Debug\AvtoManagementDB.exe
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\bin\Debug\AvtoManagementDB.pdb
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.Form1.resources
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.Properties.Resources.resources
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.exe
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.pdb
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.signup.resources
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.Login.resources
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.Form1Entered.resources
+D:\Projects\VisualStudio\VBprojects\AvtoManagementDB\AvtoManagementDB\obj\Debug\AvtoManagementDB.Form1Root.resources
